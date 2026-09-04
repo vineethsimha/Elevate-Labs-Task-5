@@ -1,0 +1,11 @@
+Fold,Model,Accuracy
+1,Decision Tree,0.64375
+2,Decision Tree,0.6625
+3,Decision Tree,0.68125
+4,Decision Tree,0.70625
+5,Decision Tree,0.65625
+1,Random Forest,0.74375
+2,Random Forest,0.7375
+3,Random Forest,0.825
+4,Random Forest,0.7875
+5,Random Forest,0.7375
